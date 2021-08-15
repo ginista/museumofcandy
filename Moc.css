@@ -1,0 +1,60 @@
+#mainNav .navbar-brand{
+    color:white;
+    
+}
+#mainNav .navbar-brand:hover{
+    color:rgb(197, 17, 17);
+}
+body{
+    background-color: rgb(253, 146, 200);
+}
+#mainNav #Candy{
+    color:rgb(197, 17, 17);
+}
+@media only screen and (max-width: 995px)
+{
+    #mainNav #HAT .navbar-brand{
+        display: none;
+    }
+}
+#mainNav .collapse .navbar-nav .nav-item .nav-link{
+    color: white;
+}
+#mainNav .collapse .navbar-nav .nav-item .nav-link:hover{
+    color:rgb(197, 17, 17);
+}
+span{
+    color:red;
+}
+#moc{
+    color:white;
+    font-size: x-large;
+    text-align: center;
+}
+/*
+@media only screen and (max-width: 825px) {
+    #moc{
+        font-size: large;
+    }
+}
+@media only screen and (max-width: 700px) {
+    #moc{
+        font-size: medium;
+    }
+}
+@media only screen and (max-width: 660px) {
+    #moc{
+        font-size: small;
+    }
+}
+@media only screen and (max-width: 610px) {
+    #moc{
+        font-size: x-small;
+        line-height: 9px;
+    }
+}
+#mocheading{
+    color:rgb(209, 39, 39);
+    font-size: x-large;
+}*/
+
